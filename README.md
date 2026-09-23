@@ -8,7 +8,7 @@ Esse projeto foi desenvolvido como atividade de estudo sobre middlewares para a 
 
 ### Instruções
 
-Abra um terminal na pasta e siga esses passos:
+Realize um clone do projeto, abra um terminal na pasta e siga os seguintes passos:
 
 1. Construa as duas imagens:
 
